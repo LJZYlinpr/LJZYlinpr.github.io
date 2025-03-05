@@ -1,9 +1,9 @@
 ---
-permalink: /about/
-title: "About Me"
-excerpt: "Learn more about Peiran Lin"
+permalink: /
+title: "Peiran Lin - AI for Biology & Computational Science"
 author_profile: true
-redirect_from:
+redirect_from: 
+  - /about/
   - /about.html
 ---
 
