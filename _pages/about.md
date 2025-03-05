@@ -1,49 +1,60 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Peiran Lin - AI for Biology & Computational Science"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+This is the front page of **Peiran Lin's** academic website, showcasing his research in **AI for Biology, Computational Science, and Bioinformatics**. Peiran Lin is an undergraduate student at **Shandong University**, majoring in **Biological Sciences** with a minor in **Computer Science and Technology**. His research interests lie at the intersection of **artificial intelligence, deep learning, and life sciences**, particularly in **spatial transcriptomics, toxicology modeling, and microbiology**.
 
-A data-driven personal website
+## Research Interests
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- **AI for Life Sciences**: Application of deep learning and computational models in biological research.
+- **Spatial Multi-Omics & Neuroscience**: AI-driven analysis of spatial transcriptomics and brain-computer interfaces.
+- **Computational Toxicology**: Using AI to assess environmental toxins and their impact on biological systems.
+- **Microbial Genomics & Bioinformatics**: Novel species identification and functional annotation of microbial genomes.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+## Academic Background
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- **B.S. in Biological Sciences**, Shandong University (2021-2025)
+  - Minor: Computer Science and Technology
+  - Core Courses: Computational Thinking (Python), Bioinformatics (94), PDE Analysis (92)
+- **ResearchGate Profile**: [Peiran Lin](https://www.researchgate.net/profile/Peiran-Lin-2)
+- **Email**: dariuslin24@gmail.com | 202100700253@mail.sdu.edu.cn
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+## Research Experience
+======
+### **1️⃣ AI for Biology & Computational Toxicology**
+- **Developing deep learning models** for **spatial multi-omics integration** to study developmental toxicity.
+- **Published first-author paper** in *Environmental Pollution* (IF 8.9) on **neurobehavioral toxicity of micro/nanoplastics** in fish models.
+- **Integrating AI & image analysis** to classify marine medaka embryo deformities (NSFC project).
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+### **2️⃣ Microbial Genomics & Bioinformatics**
+- **Characterized new bacterial species** *Phycobacter sedimenti sp. nov.*, with genome-wide metabolic pathway analysis (*Manuscript under review*).
+- **Worked on enzymatic functions of Agarivorans albus B2Z047**, a marine probiotic (*patent granted*).
 
-**Markdown generator**
+### **3️⃣ AI & Neuroscience**
+- **Published EI conference paper** on **EEG emotion detection integrated with large-scale NLP models** (*ICBioMed 2024*).
+- **Conducted research at UC Berkeley's AI & Neuroscience Seminar**.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+## Recent Publications
+======
+- **[Neurobehavioral toxicity of micro/nanoplastics](https://www.sciencedirect.com/science/article/abs/pii/S0269749124010480)** - *Environmental Pollution (2024)*
+- **[AI-based EEG emotion detection](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12924/3013169/Building-a-virtual-psychological-counselor/10.1117/12.3013169.short)** - *ICBioMed 2024*
+- *Phycobacter sedimenti sp. nov.*, a novel bacterium (*Manuscript under review*)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+## Academic Activities & Awards
+======
+- **Westlake University PEBBLE BioFusion Camp (2024)**: AI modeling for gut microbiota spatial distribution.
+- **National Microbiology Research Symposium (2023)**: Co-organized & presented.
+- **Shandong University Innovation Award** (2x), **Social Service Award**, **Energy Economics Competition Provincial 3rd Place**.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+## Future Directions
+======
+Peiran Lin is committed to **advancing AI-driven biological research**, with a focus on **spatial transcriptomics, deep learning for toxicology, and AI-based microbiology analysis**. He is currently preparing for **doctoral studies** in **AI for Life Sciences**.
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+For collaborations and discussions, please reach out via **[email](mailto:dariuslin24@gmail.com)** or visit **[ResearchGate](https://www.researchgate.net/profile/Peiran-Lin-2)**.
+
+---
