@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "touxiang.png"
+  avatar           : "touxiang20250306.png"
   name             : "Peiran Lin"
   pronouns         : # example: "he/him"  
   bio              : "Shandong University senior, Westlake University PhD freshman."
@@ -39,12 +39,10 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # Social mediae
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
