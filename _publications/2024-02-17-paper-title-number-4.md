@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "Building a Virtual Psychological Counselor by Integrating EEG Emotion Detection and Chatbot Technologies"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2024-03-06-virtual-psychological-counselor
+excerpt: 'This paper explores the feasibility of integrating EEG-based emotion detection with chatbot technology to develop a virtual psychological counseling system.'
+date: 2024-03-06
+venue: 'SPIE Conference on Artificial Intelligence and Machine Learning for Multi-Domain Operations'
+paperurl: 'https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12924/129241X/Building-a-virtual-psychological-counselor-by-integrating-EEG-emotion-detection/10.1117/12.3013169.short'
+citation: 'Peiran Lin, Liwen Yang. (2024). &quot;Building a Virtual Psychological Counselor by Integrating EEG Emotion Detection and Chatbot Technologies.&quot; <i>SPIE Conference on Artificial Intelligence and Machine Learning for Multi-Domain Operations</i>.'
+authors: ['Peiran Lin', 'Liwen Yang']
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper explores the **feasibility** of developing a virtual psychological counseling system by integrating **EEG-based emotion detection** with **chatbot technologies**. By analyzing real-time EEG signals, the system could potentially assess users' emotional states and adapt chatbot responses accordingly. The study discusses the **technical and methodological challenges** involved in this integration and examines its **potential applications** in digital mental health support. The findings suggest that this approach could provide **personalized and responsive** psychological assistance, paving the way for future advancements in AI-driven mental health services.
