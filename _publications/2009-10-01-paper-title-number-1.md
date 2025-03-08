@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-06-07-neurobehavioral-toxicity
 excerpt: 'This paper investigates the combined neurotoxic effects of micro/nanoplastics (MNPs) and triphenyltin (TPT) on marine medaka, providing insights into their ecotoxicological impact.'
-date: 2024-06-07
+date: 2024-06-071
 venue: 'Environmental Pollution'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0269749124010480'
 citation: 'Peiran Lin, Ling Liu, Yuqing Ma, Renyan Du, Chuansen Yi, Ping Li, Yanan Xu, Haiyang Yin, Le Sun, Zhi-Hua Li. (2024). &quot;Neurobehavioral Toxicity Induced by Combined Exposure of Micro/Nanoplastics and Triphenyltin in Marine Medaka (Oryzias melastigma).&quot; <i>Environmental Pollution</i>. 356: 124334.'
