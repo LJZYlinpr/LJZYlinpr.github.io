@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 ## About Me  
-Hi! I am **Peiran Lin (蔺培然)**, currently an undergraduate student at **Shandong University**, majoring in **Biological Sciences** with a minor in **Computer Science and Technology**. My research interests focus on the intersection of **Artificial Intelligence and Life Sciences**, particularly in **Computational Biology, Spatial Multi-Omics, and Bioinformatics**.
+Hi! I am **Peiran Lin**, currently an undergraduate student at **Shandong University**, majoring in **Biological Sciences** with a minor in **Computer Science and Technology**. My research interests focus on the intersection of **Artificial Intelligence and Life Sciences**, particularly in **Computational Biology, Spatial Multi-Omics, and Bioinformatics**.
+I am currently a visiting student in Prof. Jianyang Zeng’s lab at Westlake University, where I am working on AI-driven analysis of single-cell multi-omics data.
 
 I have participated in multiple **AI-driven biological research projects**, including:
 - **AI-based toxicology modeling** using deep learning.
@@ -55,13 +56,17 @@ I have participated in multiple **AI-driven biological research projects**, incl
 &nbsp;&nbsp;&nbsp;&nbsp; - *ICBioMed 2024* | [Read More](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12924/3013169/Building-a-virtual-psychological-counselor/10.1117/12.3013169.short)  
 
 📄 Lin, P., Deng-Li, J., Zhang, H., Liu, L., Liu, T., Lu, D., & Du, Z. (2024). *Zhengella sedimenti* sp. nov., and *Phycobacter sedimenti* sp. nov., two novel bacterium isolated from coastal sediment with genomic and metabolic analysis.  
-&nbsp;&nbsp;&nbsp;&nbsp; - *Under Review*  
+&nbsp;&nbsp;&nbsp;&nbsp; - *under revision*  
 
 📄 Dong, X., Lin, P., Tan, X., Li, J., Du, Z., & Ye, M. (2024). *Shimia fortis* sp. nov., a novel bacteria isolated from marine sediment.  
-&nbsp;&nbsp;&nbsp;&nbsp; - *Under Review*  
+&nbsp;&nbsp;&nbsp;&nbsp; - *under revision*    
+
+📄 Ma Y, Liu L*, Xu Y, Feng J, Wang C, Liu B, Lin P, Yin H, Sun L, Li P, Li ZH*. Aggravated visual toxicity of eco-corona on micro(nano)plastics in marine medaka (Oryzias melastigma). J Hazard Mater. (under revision).
+&nbsp;&nbsp;&nbsp;&nbsp;  - *Under Revision* - *Journal of Hazardous Materials*
 
 📄 Yi, C., Lin, P., Wang, Y., Liu, Y., Zhou, P., Xing, X., Feng, Q., & Zhao, L. (2024). Optimized fermentation, characterization, and application of *Cohnella nitrophenolicus* XS13 as a probiotic for turbot (*Scophthalmus maximus*) growth and health enhancement.  
-&nbsp;&nbsp;&nbsp;&nbsp; - *Under Review*  
+&nbsp;&nbsp;&nbsp;&nbsp; - *Under Submission*  
+
 
 
 
@@ -84,4 +89,4 @@ I have participated in multiple **AI-driven biological research projects**, incl
 
 ---
 
-*Last updated on March 6, 2025.*
+*Last updated on April 8, 2025.*
