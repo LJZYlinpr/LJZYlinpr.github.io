@@ -55,20 +55,17 @@ I have participated in multiple **AI-driven biological research projects**, incl
 📄 Lin, P., & Yang, L. (2024). Building a virtual psychological counselor by integrating EEG emotion detection with large-scale NLP models. International Conference on Biological Engineering and Medical Science. 
 &nbsp;&nbsp;&nbsp;&nbsp; - *ICBioMed 2024* | [Read More](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12924/3013169/Building-a-virtual-psychological-counselor/10.1117/12.3013169.short)  
 
+📄 Ma Y, Liu L, Xu Y, Feng J, Wang C, Liu B, Li ZH. Aggravated Visual Toxicity of Eco-Corona on Micro(Nano)Plastics in Marine Medaka (Oryzias melastigma). Environ Sci Technol Lett. 2025; doi: 10.1021/acs.estlett.5c00289.  
+&nbsp;&nbsp;&nbsp;&nbsp; - *Environmental Science & Technology Letters* (2025) | [Read More](https://pubs.acs.org/doi/10.1021/acs.estlett.5c00289)
+
 📄 Lin, P., Deng-Li, J., Zhang, H., Liu, L., Liu, T., Lu, D., & Du, Z. (2024). *Zhengella sedimenti* sp. nov., and *Phycobacter sedimenti* sp. nov., two novel bacterium isolated from coastal sediment with genomic and metabolic analysis.  
 &nbsp;&nbsp;&nbsp;&nbsp; - *under revision*  
 
 📄 Dong, X., Lin, P., Tan, X., Li, J., Du, Z., & Ye, M. (2024). *Shimia fortis* sp. nov., a novel bacteria isolated from marine sediment.  
 &nbsp;&nbsp;&nbsp;&nbsp; - *under revision*    
 
-📄 Ma Y, Liu L*, Xu Y, Feng J, Wang C, Liu B, Lin P, Yin H, Sun L, Li P, Li ZH*. Aggravated visual toxicity of eco-corona on micro(nano)plastics in marine medaka (Oryzias melastigma). J Hazard Mater. (under revision).
-&nbsp;&nbsp;&nbsp;&nbsp;  - *Under Revision* - *Journal of Hazardous Materials*
-
 📄 Yi, C., Lin, P., Wang, Y., Liu, Y., Zhou, P., Xing, X., Feng, Q., & Zhao, L. (2024). Optimized fermentation, characterization, and application of *Cohnella nitrophenolicus* XS13 as a probiotic for turbot (*Scophthalmus maximus*) growth and health enhancement.  
 &nbsp;&nbsp;&nbsp;&nbsp; - *Under Submission*  
-
-
-
 
 <hr>
 
